@@ -4,8 +4,6 @@
 
 <!-- ![techlemur's GitHub stats](https://github-readme-stats.vercel.app/api?username=techlemur&show_icons=true&theme=omni) -->
 
----  
-
 ### 🚀 &nbsp;Some Tools I Work With
 <p align="left">
 
